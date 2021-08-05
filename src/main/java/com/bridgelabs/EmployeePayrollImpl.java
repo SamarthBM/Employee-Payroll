@@ -14,7 +14,7 @@ public class EmployeePayrollImpl {
 
     /*
      Purpose: Method to take employee details from console.
-     *  and add those details to list.
+     *  and add those details to List.
      */
     public void readData() {
         Scanner sc = new Scanner(System.in);
